@@ -196,8 +196,11 @@ public class MainActivity extends AppCompatActivity {
 </androidx.constraintlayout.widget.ConstraintLayout>
 ```
 ## OUTPUT
-![![c2](https://user-images.githubusercontent.com/75235704/172089012-49a452db-eaa7-443e-b590-50f9fe875377.PNG)
-c1](https://user-images.githubusercontent.com/75235704/172089003-125a7bff-4a0b-43b3-b60d-e3d4c8e34dda.PNG)
+![c1](https://user-images.githubusercontent.com/75235704/172089156-56f70536-2b03-4cea-8103-0755a3343853.PNG)
+
+![c2](https://user-images.githubusercontent.com/75235704/172089170-cd0d15ea-500d-4fd7-b26b-ac58568aaaf6.PNG)
+
+
 
 ## RESULT
 Thus a Simple Android Application develop a program to accept username and password from the end user using Text View and Edit Text and display personal information of the student using Android Studio is developed and executed successfully.
