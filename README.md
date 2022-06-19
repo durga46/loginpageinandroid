@@ -1,4 +1,5 @@
-# Ex.No:5 Develop a program to accept username and password from the end user using Text View and Edit Text and display personal information of the student.
+# <p align="center"> Ex.No:5 Develop a program to accept username and password from the end user using Text View and Edit Text and display personal information of the student.</p>
+
 ## AIM:
 To develop a program to accept username and password from the end user using Text View and Edit Text and display personal information of the student using Android Studio.
 
